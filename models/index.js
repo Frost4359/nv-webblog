@@ -24,3 +24,5 @@ fs.readdirSync(__dirname)
   db.Sequelize = Sequelize
 
   module.exports = db
+
+  
